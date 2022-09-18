@@ -1,0 +1,9 @@
+0 Me
+1 You
+2 Is
+3 Love
+4 Remember
+5 Hello
+6 Goodbye
+7 Happy
+8 Blank
